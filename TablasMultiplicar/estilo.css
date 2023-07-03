@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body {
+    text-align: center;
+    background: skyblue;
+    background: paleturquoise;
+  }
+  div{
+    width: 100px;
+    height: 200px;
+    border: 2px black;
+    background: plum;
+    margin: 10px;
+  }
+  
+  #caja2{
+    text-align: Center;
+    background: plum;
+    color: black;
+    border: 2px black;
+  }
